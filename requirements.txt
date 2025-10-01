@@ -1,0 +1,9 @@
+google-cloud-aiplatform
+google-cloud-storage
+pandas==2.2.2
+matplotlib
+folium
+plotly
+kaleido==0.2.1
+numpy
+vertexai
